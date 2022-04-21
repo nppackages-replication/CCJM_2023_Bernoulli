@@ -8,7 +8,7 @@ https://nppackages.github.io/replication
 
 ## Simulations
 
-- R implementation: [main](CCFF_2021_Binscatter.R)
+- R replication files.
 
 ## Reference
 
