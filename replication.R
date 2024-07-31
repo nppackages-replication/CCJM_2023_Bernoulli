@@ -1,4 +1,4 @@
-# This is the replication file for Table 1 in Cattaneo, Chandak, Jansson and Ma (2022).
+# This is the replication file for Table 1 in Cattaneo, Chandak, Jansson and Ma (2024).
 # Simulated conditional pdf estimates with coverage probabilities.
 
 #install companion package
@@ -136,4 +136,3 @@ colnames(pw_table) = c("BW", "bias", "sd", "PW Coverage", "UCB Coverage",
 rownames(pw_table) = c("WBC", "RBC","WBC", "RBC","WBC", "RBC")
 
 pw_table
-
